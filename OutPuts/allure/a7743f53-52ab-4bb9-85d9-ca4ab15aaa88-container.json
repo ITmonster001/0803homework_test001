@@ -1,0 +1,1 @@
+{"uuid": "919074cd-4fd5-4975-83da-c35699bd3c65", "children": ["adc33640-2d40-444d-9bba-22aafd73084f"], "befores": [{"name": "class_driver", "status": "passed", "start": 1584697781285, "stop": 1584697781285}], "afters": [{"name": "class_driver::0", "status": "passed", "start": 1584697784308, "stop": 1584697784308}], "start": 1584697781285, "stop": 1584697784309}
